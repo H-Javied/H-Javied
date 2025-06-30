@@ -40,6 +40,9 @@ Currently seeking a position to apply my skills to innovative and impactful proj
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-blue?style=plastic&logo=PHP&logoColor=dark%20blue)
+![Laravel](https://img.shields.io/badge/Laravel-Red?style=plastic&logo=Laravel&logoColor=RED&logoSize=20&labelColor=black&color=black)
+
 
 
 
